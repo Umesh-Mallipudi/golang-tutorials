@@ -1,6 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"rsc.io/quote"
+)
 
 // this is my first program in Go Lang
 /*
@@ -11,4 +15,5 @@ and Enance my skills in go.
 
 func main() {
 	fmt.Println("Hello World.")
+	fmt.Println(quote.Go())
 }
