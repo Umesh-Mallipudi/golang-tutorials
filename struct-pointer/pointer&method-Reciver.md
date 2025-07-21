@@ -1,4 +1,3 @@
-Absolutely! Here's a clean and concise **summary in Markdown format** that you can directly save as a `.md` file:
 
 ---
 
@@ -116,7 +115,3 @@ u1.UpdateName("Z")
 
 ---
 
-```
-
-Let me know if you want me to generate this as a downloadable `.md` file or add a diagram too!
-```
